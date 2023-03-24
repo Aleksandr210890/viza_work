@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Roboto"),
+         url(../fonts/AnyConv.com__Roboto-Italic.woff2) format("woff2"),
+         url(../fonts/AnyConv.com__Roboto-Italic.woff) format("woff"),
+         url(../fonts/AnyConv.com__Roboto-Italic.eot) format("eot");
+    font-display: swap;
+}
+@font-face {
+    font-family: Roboto;
+    font-weight: 500;
+    font-style: normal;
+    src: local("Roboto"),
+         url(../fonts/AnyConv.com__Roboto-Medium.woff2) format("woff2"),
+         url(../fonts/AnyConv.com__Roboto-Medium.woff) format("woff"),
+         url(../fonts/AnyConv.com__Roboto-Medium.eot) format("eot");
+    font-display: swap;
+}

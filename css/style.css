@@ -605,6 +605,29 @@ img {
     align-items: center;
 }
 
+.info__compani {
+
+}
+
+.title__compani {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    margin-bottom: 10px;
+    opacity: 0.6;
+}
+
+.text__compani {
+    font-size: 12px;
+    line-height: 100%;
+    max-width: 310px;
+    opacity: 0.6;
+}
+
+
+.footer__skan-seti{
+margin-bottom: 10px;
+}
 .footer__skan-seti img{
 border: 1px solid rgb(94, 94, 94);
 }
@@ -664,7 +687,7 @@ border: 1px solid rgb(94, 94, 94);
     display: flex;
     justify-content: flex-end;
     padding-bottom: 15px;
-    margin-right: 400px;
+    margin-right: 380px;
 }
 .footer__oplata-item {
     margin-right: 16px;
